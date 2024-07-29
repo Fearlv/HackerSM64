@@ -1,0 +1,8 @@
+extern void scroll_castle_grounds_dl_LibSM64_Mario_001_mesh_layer_5_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_047_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_048_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_074_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_084_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_091_mesh_layer_1_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_100_mesh_layer_5_vtx_0();
+extern void scroll_castle_grounds();
