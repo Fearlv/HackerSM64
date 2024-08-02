@@ -1,4 +1,7 @@
 extern void scroll_castle_grounds_dl_LibSM64_Mario_001_mesh_layer_5_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_023_mesh_layer_4_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_024_mesh_layer_4_vtx_0();
+extern void scroll_castle_grounds_dl_Plano_031_mesh_layer_4_vtx_0();
 extern void scroll_castle_grounds_dl_Plano_047_mesh_layer_1_vtx_0();
 extern void scroll_castle_grounds_dl_Plano_048_mesh_layer_1_vtx_0();
 extern void scroll_castle_grounds_dl_Plano_074_mesh_layer_1_vtx_0();
